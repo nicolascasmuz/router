@@ -1,0 +1,29 @@
+.contenedor {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  gap: 8px;
+  margin: 25px;
+}
+
+.button-1 {
+  color: white;
+  width: 85px;
+  height: 45px;
+  background-color: darkred;
+}
+
+.button-2 {
+  color: white;
+  width: 85px;
+  height: 45px;
+  background-color: darkblue;
+}
+
+.buscar {
+  color: white;
+  width: 155px;
+  height: 75px;
+  background-color: black;
+  font-size: 30px;
+}
